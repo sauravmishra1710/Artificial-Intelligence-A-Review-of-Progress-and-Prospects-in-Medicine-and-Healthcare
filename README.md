@@ -1,1 +1,1 @@
-# Artificial-Intelligence-A-Review-of-Progress-and-Prospects-in-Medicine-and-Healthcare
+# Artificial Intelligence: A Review of Progress and Prospects in Medicine and Healthcare
