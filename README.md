@@ -23,7 +23,7 @@ Artificial Intelligence, Digital Health, Medicine, Healthcare, Innovation, Elect
 
 Various academic, scholastic, and research work done in the field of AI  and  Healthcare  were  surveyed  and  evaluated  in the process of writing this review paper.Various journals in the field of healthcare and  biomedical  informatics  such  as PubMed,  PeerJ,  Arxiv,  Springer,  and  various  other  subject specific scholar  websites like  Google  Scholar,  Research Gate, etc.were searched for relevant work and publications.The most used search filters for narrowing down the articles were artificial intelligence, machine learning, deep learning, reinforcement    learning,    natural    language    processing,computer vision, healthcare, radiology, cardiology, obstetrics & gynecology, pathology, ophthalmology,  drug discovery,   genomics, radiology,   neurology,   and   dental science.A few prerequisites for theinclusion criteria ofthe research articles were – 
 1.  The  work done was directly related to the field of Artificial Intelligence in health care domain,
-2.  both applications based, and review papers were searched,  and 
+2.  Both application based, and review papers were analyzed,  and 
 3.  the research work was  carried  outin  the past decade.
 
 All the references and citations were managed using the Mendeley Desktop tool
